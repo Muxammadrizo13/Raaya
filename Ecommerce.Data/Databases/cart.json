@@ -1,0 +1,22 @@
+[
+  {
+    "Products": [
+      {
+        "Name": "cap",
+        "Describtion": "white",
+        "Price": 50.0,
+        "Count": 3,
+        "Size": 0,
+        "Brand": 1,
+        "Type": 3,
+        "Id": 3,
+        "CreatedAt": "2023-02-23T11:37:08.5310687+03:00",
+        "UpdatedAt": null
+      }
+    ],
+    "UserId": 1,
+    "Id": 1,
+    "CreatedAt": "2023-02-23T08:54:59.6129246Z",
+    "UpdatedAt": null
+  }
+]

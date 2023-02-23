@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerce.Domain\Raaya.Domain.csproj" />
+    <ProjectReference Include="..\Ecommerce.Sevice\Raaya.Sevice.csproj" />
+    <ProjectReference Include="..\ECommmerce.Data\Raaya.Data.csproj" />
+  </ItemGroup>
+
+</Project>

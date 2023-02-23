@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "shirt",
+    "Describtion": "new",
+    "Price": 150.0,
+    "Count": 1,
+    "Size": 0,
+    "Brand": 0,
+    "Type": 2,
+    "Id": 1,
+    "CreatedAt": "2023-02-23T11:05:07.9373628+03:00",
+    "UpdatedAt": null
+  },
+  {
+    "Name": "jeans",
+    "Describtion": "modern",
+    "Price": 200.0,
+    "Count": 5,
+    "Size": 0,
+    "Brand": 1,
+    "Type": 4,
+    "Id": 2,
+    "CreatedAt": "2023-02-23T11:16:28.1543021+03:00",
+    "UpdatedAt": null
+  },
+  {
+    "Name": "cap",
+    "Describtion": "white",
+    "Price": 50.0,
+    "Count": 3,
+    "Size": 0,
+    "Brand": 1,
+    "Type": 3,
+    "Id": 3,
+    "CreatedAt": "2023-02-23T11:37:08.5310687+03:00",
+    "UpdatedAt": null
+  }
+]
